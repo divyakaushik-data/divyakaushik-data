@@ -1,5 +1,5 @@
 ### Divya Kaushik
-AI & Data Strategy Leader — 15+ years building analytics functions, governed data assets and AI-enabled workflows (Aon · ex-Gartner, Deloitte).
+AI & Data Strategy Leader — 15+ years building analytics functions, governed data assets and AI-enabled workflows (Aon · ex-Gartner, ex-Deloitte).
 
 **Currently building:** a customer analytics data product, in public —
 from governed data model to dashboards, predictive models, GenAI use cases and the operating model that ties them together.
